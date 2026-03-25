@@ -86,16 +86,46 @@ Estos proyectos replican escenarios reales o aplican análisis sobre datos opera
 
 ---
 
+### 🏦 Credit ETL Pipeline (Python + SQL)
+
+Pipeline ETL end-to-end que simula un entorno de análisis de riesgo crediticio, integrando datos de créditos, pagos y convenios.
+
+**Qué incluye:**
+
+- Generación de datos sintéticos
+- Modelado relacional
+- Carga automatizada en SQLite
+- Consultas de negocio sobre cartera
+
+**Análisis implementados:**
+
+- Distribución de cartera por estatus  
+- Recuperación por crédito  
+- Desempeño por tipo de convenio  
+
+**Enfoque:**
+
+El proyecto replica un flujo típico en entornos financieros para evaluar:
+
+- comportamiento de cartera  
+- nivel de recuperación  
+- segmentación por tipo de cliente  
+
+🔗 Ver proyecto:  
+https://github.com/AdrianCuatecatl/credit-etl-pipeline
+
+---
+
 ### 🚚 Transportation Operations Dashboard (Power BI)
 
 Dashboard enfocado en la operación logística y transporte, permitiendo analizar:
 
-* Utilización de transporte
-* Carga de pallets
-* Cancelaciones y sus causas
-* Desempeño por transportista y grower
+- Utilización de transporte  
+- Carga de pallets  
+- Cancelaciones y sus causas  
+- Desempeño por transportista y grower  
 
-🔗 Ver proyecto:
+🔗 Ver proyecto:  
 https://github.com/AdrianCuatecatl/international-motors-powerbi-dashboard
 
 ---
@@ -104,24 +134,12 @@ https://github.com/AdrianCuatecatl/international-motors-powerbi-dashboard
 
 Modelo de series de tiempo utilizando redes neuronales para predicción.
 
-* Preprocesamiento de datos temporales
-* Modelado con LSTM
-* Evaluación con MAE
+- Preprocesamiento de datos temporales  
+- Modelado con LSTM  
+- Evaluación con MAE  
 
-🔗 Ver proyecto:
+🔗 Ver proyecto:  
 https://github.com/AdrianCuatecatl/time-series-forecast-lstm
-
----
-
-## 💻 Próximos proyectos
-
-Actualmente desarrollando:
-
-* Pipeline ETL end-to-end (Python + SQL)
-* Proyecto de riesgo crediticio con datos simulados
-* Mejora de visualizaciones orientadas a negocio
-
----
 
 ## 🛠️ Tecnologías
 
